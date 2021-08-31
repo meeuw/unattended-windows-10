@@ -3,8 +3,8 @@
   [
     {
       "type": "qemu",
-      "iso_url": "https://software-download.microsoft.com/download/pr/18363.418.191007-0143.19h2_release_svc_refresh_CLIENTENTERPRISEEVAL_OEMRET_x64FRE_en-us.iso",
-      "iso_checksum": "b3cd4bae54e74f1ca497216a3f347ca7",
+      "iso_url": "https://software-download.microsoft.com/download/sg/19043.928.210409-1212.21h1_release_svc_refresh_CLIENTENTERPRISEEVAL_OEMRET_x64FRE_en-us.iso",
+      "iso_checksum": "059eabb2dc0886515808e98910e49d13",
       "iso_checksum_type": "md5",
       "output_directory": "windows-10",
       "disk_size": 50000,
